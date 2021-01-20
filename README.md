@@ -1,4 +1,10 @@
+**This project is a fork of an abandoned project. This project will be continued here: https://github.com/eforgacs-games/Dragon_Warrior**
+
 ![Dragon Warrior](https://i.imgur.com/noZfPNO.gif)
+
+
+
+
 
 ABOUT
 =====
